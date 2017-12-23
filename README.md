@@ -1,6 +1,6 @@
 # 用vue写的treetable组件，页面风格是模仿elementUi
 
->  params:column 表格列标题Array，treedata 表格数据Array,outdata 输出数据 Array
+>  params:column 表格列标题Array，treedata 表格数据Array, outdata 输出数据 Array
 
 >  column:[{check:true 是否复选框}
  {text:'列标题名称 Strng',

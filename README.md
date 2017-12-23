@@ -1,13 +1,14 @@
 # 用vue写的treetable组件，页面风格是模仿elementUi
 
-> // params:column 表格列标题Array，treedata 表格数据Array,outdata 输出数据 Array
-// column:[{check:true 是否复选框}
-// {text:'列标题名称 Strng',
-// formater:'替换的内容 String',
-// width:'列的宽度 String',
-// prop:'对应的字段 String',
-// tree:'三角箭头图片在哪个字段出现 Boolean'，
-// click:"单击事件 arry ['选择器(必须用name的值) String']}]
+>  params:column 表格列标题Array，treedata 表格数据Array,outdata 输出数据 Array
+
+>  column:[{check:true 是否复选框}
+ {text:'列标题名称 Strng',
+ formater:'替换的内容 String',
+ width:'列的宽度 String',
+ prop:'对应的字段 String',
+ tree:'三角箭头图片在哪个字段出现 Boolean'，
+ click:"单击事件 arry ['选择器(必须用name的值) String']}]
 
 ## Build Setup
 

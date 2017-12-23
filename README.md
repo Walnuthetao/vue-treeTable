@@ -1,4 +1,4 @@
-# tree
+# 用vue写的treetable组件，页面风格是模仿elementUi
 
 > ht
 
